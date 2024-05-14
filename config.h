@@ -3,7 +3,7 @@
 
 #define GAME_WIDTH 623
 #define GAME_HEIGHT 1671
-#define GAME_TITLE "飞机大战v1.0"
+#define GAME_TITLE "太空大战v1.0"
 #define GAME_RES_PATH "./res.qrc"
 #define GAME_ICON ":/res/favicon.ico"
 #define GAME_RATE 10
